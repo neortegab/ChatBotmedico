@@ -1,0 +1,154 @@
+{
+    "enfermedades": [
+        {
+            "nombre": "gripe",
+            "tipo": "respiratoria",
+            "sintomas": ["fiebre", "tos", "dolor muscular", "fatiga", "congestión nasal"]
+        },
+        {
+            "nombre": "covid-19",
+            "tipo": "respiratoria",
+            "sintomas": ["fiebre", "tos seca", "dificultad para respirar", "fatiga", "dolor de garganta"]
+        },
+        {
+            "nombre": "asma",
+            "tipo": "respiratoria",
+            "sintomas": ["dificultad para respirar", "sibilancias", "tos", "opresión en el pecho"]
+        },
+        {
+            "nombre": "bronquitis",
+            "tipo": "respiratoria",
+            "sintomas": ["tos", "mucosidad", "fatiga", "dificultad para respirar", "fiebre baja"]
+        },
+        {
+            "nombre": "neumonía",
+            "tipo": "respiratoria",
+            "sintomas": ["fiebre alta", "tos", "escalofríos", "dolor en el pecho", "dificultad para respirar"]
+        },
+        {
+            "nombre": "sinusitis",
+            "tipo": "respiratoria",
+            "sintomas": ["dolor de cabeza", "congestión nasal", "dolor facial", "tos", "secreción nasal"]
+        },
+        {
+            "nombre": "tuberculosis",
+            "tipo": "respiratoria",
+            "sintomas": ["tos con sangre", "fiebre", "sudores nocturnos", "pérdida de peso", "dolor en el pecho"]
+        },
+        {
+            "nombre": "laringitis",
+            "tipo": "respiratoria",
+            "sintomas": ["tos seca", "ronquera", "dolor de garganta", "dificultad para hablar", "fiebre leve"]
+        },
+        {
+            "nombre": "faringitis",
+            "tipo": "respiratoria",
+            "sintomas": ["dolor de garganta", "fiebre", "dificultad para tragar", "hinchazón en el cuello", "tos"]
+        },
+        {
+            "nombre": "enfisema",
+            "tipo": "respiratoria",
+            "sintomas": ["dificultad para respirar", "tos persistente", "fatiga", "sibilancias", "pérdida de peso"]
+        },
+        {
+            "nombre": "fibrosis quística",
+            "tipo": "respiratoria",
+            "sintomas": ["tos con mucosidad", "infecciones pulmonares recurrentes", "dificultad para respirar", "fatiga"]
+        },
+        {
+            "nombre": "gastroenteritis",
+            "tipo": "intestinal",
+            "sintomas": ["diarrea", "vómitos", "dolor abdominal", "fiebre", "náuseas"]
+        },
+        {
+            "nombre": "colitis",
+            "tipo": "intestinal",
+            "sintomas": ["dolor abdominal", "diarrea", "fatiga", "pérdida de peso", "sangrado rectal"]
+        },
+        {
+            "nombre": "síndrome del intestino irritable",
+            "tipo": "intestinal",
+            "sintomas": ["dolor abdominal", "diarrea", "estreñimiento", "hinchazón", "cólicos"]
+        },
+        {
+            "nombre": "enfermedad de Crohn",
+            "tipo": "intestinal",
+            "sintomas": ["dolor abdominal", "diarrea crónica", "fatiga", "fiebre", "pérdida de peso"]
+        },
+        {
+            "nombre": "úlceras gástricas",
+            "tipo": "intestinal",
+            "sintomas": ["dolor abdominal", "acidez", "náuseas", "pérdida de apetito", "hinchazón"]
+        },
+        {
+            "nombre": "hepatitis A",
+            "tipo": "intestinal",
+            "sintomas": ["fatiga", "náuseas", "dolor abdominal", "ictericia", "pérdida de apetito"]
+        },
+        {
+            "nombre": "diverticulitis",
+            "tipo": "intestinal",
+            "sintomas": ["dolor abdominal", "fiebre", "náuseas", "cambios en el hábito intestinal", "hinchazón"]
+        },
+        {
+            "nombre": "infección por H. pylori",
+            "tipo": "intestinal",
+            "sintomas": ["dolor abdominal", "acidez", "hinchazón", "náuseas", "pérdida de apetito"]
+        },
+        {
+            "nombre": "cáncer de colon",
+            "tipo": "intestinal",
+            "sintomas": ["cambios en los hábitos intestinales", "sangre en las heces", "fatiga", "pérdida de peso", "dolor abdominal"]
+        },
+        {
+            "nombre": "disentería",
+            "tipo": "intestinal",
+            "sintomas": ["diarrea severa", "dolor abdominal", "fiebre", "deshidratación", "náuseas"]
+        },
+        {
+            "nombre": "celiaquía",
+            "tipo": "intestinal",
+            "sintomas": ["diarrea", "hinchazón", "fatiga", "pérdida de peso", "anemia"]
+        },
+        {
+            "nombre": "colangitis",
+            "tipo": "intestinal",
+            "sintomas": ["fiebre", "dolor en el abdomen superior derecho", "ictericia", "náuseas", "escalofríos"]
+        },
+        {
+            "nombre": "enfermedad por reflujo gastroesofágico (ERGE)",
+            "tipo": "intestinal",
+            "sintomas": ["acidez", "dolor en el pecho", "dificultad para tragar", "tos seca", "regurgitación"]
+        },
+        {
+            "nombre": "peritonitis",
+            "tipo": "intestinal",
+            "sintomas": ["dolor abdominal intenso", "fiebre", "náuseas", "hinchazón abdominal", "pérdida de apetito"]
+        },
+        {
+            "nombre": "cólicos biliares",
+            "tipo": "intestinal",
+            "sintomas": ["dolor abdominal", "náuseas", "vómitos", "hinchazón", "sensación de llenura"]
+        },
+        {
+            "nombre": "cirrosis hepática",
+            "tipo": "intestinal",
+            "sintomas": ["fatiga", "ictericia", "pérdida de apetito", "hinchazón abdominal", "hematomas fáciles"]
+        },
+        {
+            "nombre": "enfermedad celíaca",
+            "tipo": "intestinal",
+            "sintomas": ["diarrea", "fatiga", "pérdida de peso", "hinchazón", "anemia"]
+        },
+        {
+            "nombre": "intoxicación alimentaria",
+            "tipo": "intestinal",
+            "sintomas": ["diarrea", "vómitos", "dolor abdominal", "náuseas", "fiebre"]
+        },
+        {
+            "nombre": "apendicitis",
+            "tipo": "intestinal",
+            "sintomas": ["dolor abdominal", "fiebre", "náuseas", "vómitos", "pérdida de apetito"]
+        }
+    ]
+}
