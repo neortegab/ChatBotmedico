@@ -1,0 +1,10 @@
+#root {
+  align-items: center;
+  max-width: 100vw;
+  margin: 0 auto;
+}
+
+#root {
+  display: grid;
+  grid-template-rows: 0.5fr 2fr 1fr;
+}

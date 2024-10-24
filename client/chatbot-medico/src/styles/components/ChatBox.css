@@ -1,0 +1,12 @@
+.chat-box {
+  border: 1px solid black;
+  border-radius: 12px;
+}
+
+.chat-box{
+  margin-top: 8px;
+  margin-bottom: 8px;
+  min-height: 100%;
+  min-width: 90vw;
+  max-width: 95vw;
+}
