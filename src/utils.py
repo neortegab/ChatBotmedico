@@ -1,10 +1,10 @@
 #Utiliza la biblioteca pandas para leer el archivo 'enfermedades.json' y crea instancias de la clase Enfermedad para cada entrada en el archivo.
 import pandas as pd
-from enfermedad import Enfermedad
+from src.enfermedad import Enfermedad
 
 def cargar_enfermedades():
     # Cargar el archivo JSON utilizando pandas
-    df = pd.read_json('enfermedades.json')
+    df = pd.read_json('src/enfermedades.json')
     enfermedades = []
     
     # Iterar a través de cada fila del DataFrame

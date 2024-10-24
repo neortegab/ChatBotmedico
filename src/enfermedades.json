@@ -1,5 +1,4 @@
 {
-    "descripcion": "Este archivo JSON contiene una lista de enfermedades con sus respectivos síntomas para un chatbot médico.",
     "enfermedades": [
         {
             "nombre": "gripe",
@@ -150,7 +149,7 @@
             "nombre": "apendicitis",
             "tipo": "intestinal",
             "sintomas": ["dolor abdominal", "fiebre", "náuseas", "vómitos", "pérdida de apetito"]
-        }
+        },
         {
             "nombre": "diabetes tipo 2",
             "tipo": "endocrina",
@@ -177,119 +176,14 @@
             "sintomas": ["dolor en el pecho", "dificultad para respirar", "sudoración", "náuseas", "mareos"]
         },
         {
-            "nombre": "hipertensión arterial",
+            "nombre": "arritmia cardíaca",
             "tipo": "cardiovascular",
-            "sintomas": ["dolor de cabeza", "mareos", "dificultad para respirar", "visión borrosa", "palpitaciones"]
+            "sintomas": ["palpitaciones", "mareos", "dificultad para respirar", "fatiga", "dolor en el pecho"]
         },
         {
-            "nombre": "arritmia",
+            "nombre": "angina de pecho",
             "tipo": "cardiovascular",
-            "sintomas": ["palpitaciones", "mareos", "dificultad para respirar", "dolor en el pecho", "fatiga"]
-        },
-        {
-            "nombre": "anemia",
-            "tipo": "hematológica",
-            "sintomas": ["fatiga", "palidez", "mareos", "dificultad para respirar", "palpitaciones"]
-        },
-        {
-            "nombre": "leucemia",
-            "tipo": "hematológica",
-            "sintomas": ["fatiga", "pérdida de peso", "infecciones recurrentes", "sangrado fácil", "moretones"]
-        },
-        {
-            "nombre": "linfoma de Hodgkin",
-            "tipo": "hematológica",
-            "sintomas": ["fiebre", "sudores nocturnos", "pérdida de peso", "fatiga", "ganglios linfáticos inflamados"]
-        },
-        {
-            "nombre": "migraña",
-            "tipo": "neurológica",
-            "sintomas": ["dolor de cabeza intenso", "náuseas", "sensibilidad a la luz", "vómitos", "visión borrosa"]
-        },
-        {
-            "nombre": "epilepsia",
-            "tipo": "neurológica",
-            "sintomas": ["convulsiones", "pérdida de consciencia", "confusión", "movimientos incontrolables", "cansancio"]
-        },
-        {
-            "nombre": "esclerosis múltiple",
-            "tipo": "neurológica",
-            "sintomas": ["fatiga", "debilidad muscular", "problemas de equilibrio", "visión borrosa", "entumecimiento"]
-        },
-        {
-            "nombre": "Alzheimer",
-            "tipo": "neurológica",
-            "sintomas": ["pérdida de memoria", "confusión", "desorientación", "problemas de lenguaje", "cambios de humor"]
-        },
-        {
-            "nombre": "Parkinson",
-            "tipo": "neurológica",
-            "sintomas": ["temblores", "rigidez muscular", "lentitud de movimientos", "problemas de equilibrio", "fatiga"]
-        },
-        {
-            "nombre": "esquizofrenia",
-            "tipo": "psiquiátrica",
-            "sintomas": ["alucinaciones", "delirios", "comportamiento desorganizado", "aplanamiento afectivo", "falta de motivación"]
-        },
-        {
-            "nombre": "depresión",
-            "tipo": "psiquiátrica",
-            "sintomas": ["tristeza persistente", "pérdida de interés", "cambios en el apetito", "insomnio", "fatiga"]
-        },
-        {
-            "nombre": "trastorno bipolar",
-            "tipo": "psiquiátrica",
-            "sintomas": ["episodios maníacos", "episodios depresivos", "cambios de humor", "irritabilidad", "insomnio"]
-        },
-        {
-            "nombre": "artritis reumatoide",
-            "tipo": "autoinmune",
-            "sintomas": ["dolor articular", "hinchazón", "rigidez", "fatiga", "deformidades en las articulaciones"]
-        },
-        {
-            "nombre": "lupus eritematoso sistémico",
-            "tipo": "autoinmune",
-            "sintomas": ["erupción cutánea", "dolor articular", "fatiga", "fiebre", "pérdida de cabello"]
-        },
-        {
-            "nombre": "psoriasis",
-            "tipo": "autoinmune",
-            "sintomas": ["erupciones en la piel", "picazón", "descamación", "dolor articular", "fatiga"]
-        },
-        {
-            "nombre": "síndrome de Sjögren",
-            "tipo": "autoinmune",
-            "sintomas": ["ojos secos", "boca seca", "fatiga", "dolor articular", "inflamación de las glándulas"]
-        },
-        {
-            "nombre": "celulitis",
-            "tipo": "infecciosa",
-            "sintomas": ["piel enrojecida", "hinchazón", "dolor", "calor en la zona afectada", "fiebre"]
-        },
-        {
-            "nombre": "mononucleosis",
-            "tipo": "infecciosa",
-            "sintomas": ["fatiga", "fiebre", "dolor de garganta", "ganglios inflamados", "dolor de cabeza"]
-        },
-        {
-            "nombre": "varicela",
-            "tipo": "infecciosa",
-            "sintomas": ["erupción cutánea", "picazón", "fiebre", "fatiga", "dolor de cabeza"]
-        },
-        {
-            "nombre": "sarampión",
-            "tipo": "infecciosa",
-            "sintomas": ["fiebre alta", "erupción cutánea", "tos", "congestión nasal", "ojos irritados"]
-        },
-        {
-            "nombre": "tétanos",
-            "tipo": "infecciosa",
-            "sintomas": ["rigidez muscular", "espasmos", "dificultad para tragar", "fiebre", "sudoración"]
-        },
-        {
-            "nombre": "dengue",
-            "tipo": "infecciosa",
-            "sintomas": ["fiebre alta", "dolor muscular", "dolor articular", "dolor de cabeza", "erupción cutánea"]
+            "sintomas": ["dolor en el pecho", "dificultad para respirar", "fatiga", "mareos", "sudoración"]
         }
     ]
 }
